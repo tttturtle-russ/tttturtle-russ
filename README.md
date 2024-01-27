@@ -1,18 +1,34 @@
 ![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
-### Hi there 👋
-### Very good profile,Love from China 🇨🇳
+## Hi there ,I'm TurtleRuss👋
+### 👨🏻‍💻 &nbsp;About Me 
 
-<!--
-**tttturtle-russ/tttturtle-russ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 &nbsp; Exploring new technologies and making software secure.
+- 🎓 &nbsp; Studying Cyberspace Security at Huazhong University of Science and Technology.
+- 🌱 &nbsp; Learning more about Iot Security, Computer Security and Software Security.
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go&logoColor=276DC3)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tttturtle-russ&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttturtle-russ&theme=buefy&layout=compact" />
+</a>
+
+
+### 🤝🏻 &nbsp;Connect with Me 
+<p align="center">
+<a href="https://tttturtle-russ.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-tttturtle--russ.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:tttturtleruss@gmail.edu"><img alt="Email" src="https://img.shields.io/badge/Email-tttturtleruss@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
