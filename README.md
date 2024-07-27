@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and making software secure.
 - 🎓 &nbsp; Studying Cyberspace Security at Huazhong University of Science and Technology.
-- 🌱 &nbsp; Learning more about Iot Security, Computer Security and Software Security.
+- 🌱 &nbsp; Learning more about Network Security, System Security and Software Security.
 
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
