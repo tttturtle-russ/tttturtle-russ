@@ -7,7 +7,7 @@ Now I'm:
 
 - 🤖 &nbsp; Studying LLVM and exploring how to use LLM more effectively.
 - 🤔 &nbsp; Using LLM-assisted techniques to improve the performance of traditional software analyze tools.
-- 🎓 &nbsp; Pursuing a Ph.D offer to continue(or start) my academic career.
+- 🎓 &nbsp; Being a Research Assistant in HKUST under supervision of Prof. Dongdong She
 
 
 <a href="https://github.com/AVS1508">
