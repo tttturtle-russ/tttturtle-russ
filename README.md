@@ -19,10 +19,10 @@ Now I'm:
 ### 🤝🏻 &nbsp;Connect with Me 
 <p align="center">
   <a href="mailto:tttturtleruss@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+    <img align="center" src="img/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tttturtle-russ.github.io" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+    <img align="center" src="img/web.png" alt="website" height="50" width="50" />
   </a>
 </p>
