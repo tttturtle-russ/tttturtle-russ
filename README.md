@@ -10,7 +10,7 @@ Now I'm:
 - 🎓 &nbsp; Being a Research Assistant in HKUST under supervision of Prof. Dongdong She
 
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tttturtle-russ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tttturtle-russ&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tttturtle-russ&theme=buefy&layout=compact" />
 </a>
