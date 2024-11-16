@@ -7,7 +7,7 @@ Now I'm:
 
 - 🤖 &nbsp; Studying LLVM and exploring how to use LLM more effectively.
 - 🤔 &nbsp; Using LLM-assisted techniques to improve the performance of traditional software analyze tools.
-- 🎓 &nbsp; Being a Research Assistant in HKUST under supervision of Prof. Dongdong She
+- 🎓 &nbsp; Being a Research Assistant in HKUST working with Prof. Dongdong She and his Ph.D Qiao Zhang.
 
 
 <a href="https://github.com/tttturtle-russ">
