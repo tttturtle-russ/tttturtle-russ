@@ -1,7 +1,7 @@
 ![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
 ## Hi there ,I'm TurtleRuss👋
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a senior student majoring in Cyberspace Security and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am boardly interested in **System Security, Software Security**. I will persue my Ph.D degree in HKUST under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
+I'm a senior student majoring in Cyberspace Security and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am boardly interested in **System Security & Software Security**. I will persue my Ph.D degree in HKUST under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
 
 Now I'm:
 
