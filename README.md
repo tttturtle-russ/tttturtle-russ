@@ -1,7 +1,7 @@
 ![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
 ## Hi there ,I'm TurtleRuss👋
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a final-year student majoring in Cyber Science and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am broadly interested in **System Security & Software Security using Nerual-Symbolic Methods**. I will persue my Ph.D degree in HKUST under the supervison of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
+I'm a final-year student majoring in Cyber Science and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am broadly interested in **System Security & Software Security using Neural-Symbolic Methods**. I will persue my Ph.D degree in HKUST under the supervison of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
 
 Now I'm:
 
