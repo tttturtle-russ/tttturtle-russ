@@ -1,13 +1,13 @@
 ![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
 ## Hi there ,I'm TurtleRuss👋
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a senior student majoring in Cyberspace Security and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am boardly interested in **System Security & Software Security**. I will persue my Ph.D degree in HKUST under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
+I'm a final-year student majoring in Cyber Science and Engieering in [Huazhong University of Science and Technology](https://hust.edu.cn). I am broadly interested in **System Security & Software Security using Nerual-Symbolic Methods**. I will persue my Ph.D degree in HKUST under the supervison of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/).
 
 Now I'm:
 
-- 🤖 &nbsp; Studying LLVM and exploring how to use LLM more effectively.
+- 🤖 &nbsp; Learning software testing skills and exploring how to use LLM more effectively.
 - 🤔 &nbsp; Using LLM-assisted techniques to improve the performance of traditional software analyze tools.
-- 🎓 &nbsp; Being a Research Assistant in HKUST working with Prof. Dongdong She and his Ph.D Qiao Zhang.
+- 🎓 &nbsp; Being a Research Assistant in HKUST working with Prof. Dongdong She.
 
 
 <a href="https://github.com/tttturtle-russ">
