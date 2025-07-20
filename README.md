@@ -1,7 +1,7 @@
 ![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
 ## Hi there ,I'm TurtleRuss👋
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a final-year undergraduate student majoring in Cyber Science and Engineering at [Huazhong University of Science and Technology](https://hust.edu.cn). I am broadly interested in **System Security & Software Security**. I will pursue my Ph.D degree at HKUST under the supervision of [Prof. Dongdong She](https://cse.hkust.edu.hk/~dongdong/). Now I'm working closely with [Qiao Zhang](https://jok1nq.github.io/).
+I’m a Ph.D student advised by Prof. Dongdong She at The Hong Kong University of Science and Technology. I am broadly interested in System Security & Software Security. Now I’m working closely with Qiao Zhang. I earned my bachelor’s degree from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.
 
 <a href="https://github.com/tttturtle-russ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tttturtle-russ&theme=buefy&show_icons=true" />
