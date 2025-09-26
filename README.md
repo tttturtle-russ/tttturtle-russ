@@ -1,4 +1,3 @@
-![](https://github.com/tttturtle-russ/tttturtle-russ/blob/main/img/img.png)
 ## Hi there ,I'm TurtleRuss👋
 ### 👨🏻‍💻 &nbsp;About Me
 I’m a Ph.D student advised by Prof. Dongdong She at The Hong Kong University of Science and Technology. I am broadly interested in System Security & Software Security. Now I’m working closely with Qiao Zhang. I earned my bachelor’s degree from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.
